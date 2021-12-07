@@ -1,1 +1,0 @@
-prompt("Bạn đã đủ 18 tuổi!")
