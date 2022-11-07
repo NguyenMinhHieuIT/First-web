@@ -110,7 +110,7 @@ html{
 
 #search {
     display: inline-block;
-    float:right;
+    float: right;
     padding:0px 24px;
     color: #fff;
     
@@ -129,7 +129,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url("/band/assets/img/slider/chicago.jpg") top center / cover no-repeat;
+    background: url("/assets/img/slider/chicago.jpg") top center / cover no-repeat;
 }
 #slider .text-content {
     position: absolute;
